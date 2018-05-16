@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ClearScoreDemo</string>
+    <string name="main_activity_title">Dashboard</string>
+    <string name="score_label">Your credit score is</string>
+    <string name="score_max">out of %1s</string>
+    <string name="dialog_ok">OK</string>
+    <string name="unknown_error">Error message: Unknown</string>
+</resources>
